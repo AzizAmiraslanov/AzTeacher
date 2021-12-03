@@ -8,5 +8,3 @@ Thanks for uploading.
 */# Template-3
 # Template-AzTeacher
 # AzTeacher
-# AzTeacher
-# AzTeacher
